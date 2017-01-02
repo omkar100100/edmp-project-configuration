@@ -1,17 +1,17 @@
 [{
   "gitProjectName": "edmp-config-server",
-  "gitRepositoryUrl": "https://github.com/codecentric/edmp-config-server",
+  "gitRepositoryUrl": "https://github.com/omkar100100/edmp-config-server",
   "dockerPort": "18888:8888"
 }, {
   "gitProjectName": "edmp-sample-app",
-  "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-app",
+  "gitRepositoryUrl": "https://github.com/omkar100100/edmp-sample-app-master",
   "dockerPort": "10002:8081"
 }, {
   "gitProjectName": "edmp-sample-stream-sink",
-  "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-stream-sink",
+  "gitRepositoryUrl": "https://github.com/omkar100100/edmp-sample-stream-sink-master",
   "dockerPort": "10003:8080"
 }, {
   "gitProjectName": "edmp-sample-stream-source",
-  "gitRepositoryUrl": "https://github.com/codecentric/edmp-sample-stream-source",
+  "gitRepositoryUrl": "https://github.com/omkar100100/edmp-sample-stream-source-master",
   "dockerPort": "10004:8080"
 }]
